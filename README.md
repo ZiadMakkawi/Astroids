@@ -42,10 +42,7 @@ python main.py
 
     Esc — Quit
 
-📸 Screenshots
-<p align="center"> <img src="img/1.png" width="400"> <img src="img/2.png" width="400"> </p>
 
-(Add your own screenshots inside the docs/ folder and link them here.)
 🗂️ Project Structure
 
 space-invaders/
@@ -76,3 +73,9 @@ Code style follows PEP8 with clear separation between modules (player, enemy, bu
 This project is licensed under the MIT License
 .
 You are free to use, modify, and distribute it.
+```
+## 📸 Screenshots
+<p align="center">
+ <img src="img/1.png" width="400">
+ <img src="img/2.png" width="400">
+</p>
