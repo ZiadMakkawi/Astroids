@@ -43,7 +43,7 @@ python main.py
     Esc — Quit
 
 📸 Screenshots
-<p align="center"> <img src="docs/screenshot1.png" width="400"> <img src="docs/screenshot2.png" width="400"> </p>
+<p align="center"> <img src="img/1.png" width="400"> <img src="img/2.png" width="400"> </p>
 
 (Add your own screenshots inside the docs/ folder and link them here.)
 🗂️ Project Structure
